@@ -2,6 +2,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ApplicationDbContext>(options->
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddScoped<IClientService, ClientService>();
+builder.Services.AddScoped<ICreditService, CreditService>();
+builder.Services.AddScoped<IDebtReviewService, DebtReviewService>();
 
 var app = builder.Build();
 
