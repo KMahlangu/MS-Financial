@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MS.Financial.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802893ef994084557d4274d08b16b43f2d73e8da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a89dbe626332750999a4c4856589d747b18f45e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MS.Financial.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MS.Financial.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
