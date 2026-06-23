@@ -1,0 +1,11 @@
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.csproj.AssemblyReference.cache
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.AssemblyInfoInputs.cache
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.AssemblyInfo.cs
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.csproj.CoreCompileInputs.cache
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.RazorAssemblyInfo.cache
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.RazorAssemblyInfo.cs
+C:\Users\summe\OneDrive\Desktop\MVCProjects\MS.Financial.Web\obj\Debug\net10.0\MS.Financial.Web.sourcelink.json
